@@ -1,0 +1,4 @@
+theia@theia-vladimirkriv:/home/project/mcino-Introduction-to-Git-and-GitHub$ git branch -vv
+  bug-fix-revert 19c7445 [origin/bug-fix-revert] Create forked-repo
+  bug-fix-typo   19c7445 [origin/bug-fix-typo] Create forked-repo
+* main           3f02922 [origin/main: ahead 2] Revert "fixed typo"
