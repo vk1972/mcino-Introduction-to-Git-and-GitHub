@@ -1,7 +1,11 @@
-theia@theia-vladimirkriv:/home/project/mcino-Introduction-to-Git-and-GitHub$ git checkout main
-M       README.md
+theia@theia-vladimirkriv:/home/proj
+ect/mcino-Introduction-to-Git-and-GitHub$ git checkout main
 Switched to branch 'main'
-Your branch is up to date with 'origin/main'
-
-theia@theia-vladimirkriv:/home/project/mcino-Introduction-to-Git-and-GitHub$ git merge bug-fix-typo
-Already up to date.
+Your branch is ahead of 'origin/main' by 4 commits.
+  (use "git push" to publish your local commits)
+theia@theia-vladimirkriv:/home/proj
+ect/mcino-Introduction-to-Git-and-GitHub$ git merge bug-fix-typo
+hint: Waiting for your editor to cl
+Merge made by the 'ort' strategy.
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
